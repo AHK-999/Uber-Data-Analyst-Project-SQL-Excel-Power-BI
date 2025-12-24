@@ -1,6 +1,6 @@
 # 🚕 Uber Data Analyst Project | Excel · SQL · Power BI
 
-![download](https://github.com/user-attachments/assets/533cc43a-a198-4ac6-a52a-2b7f258095ea)
+<img width="980" height="580" alt="Uber-Conversation-1" src="https://github.com/user-attachments/assets/a1589cac-464b-4bf9-91a9-e47d236a7a2a" />
 
 
 An end-to-end **data analytics and business intelligence project** that analyzes Uber ride data to understand **ride performance, customer behavior, revenue patterns, cancellations, and ratings** using **Excel for initial exploration, SQL for querying, and Power BI for interactive dashboards**.
